@@ -1,5 +1,5 @@
 const hello = () => {
-  console.log("Hello World This is a tiny change");
+  console.log("Hello GitHub!");
 };
 
 hello();
